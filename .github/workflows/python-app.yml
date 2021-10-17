@@ -34,4 +34,4 @@ jobs:
     - name: Test
       working-directory: ${{github.workspace}}/tests
       run: |
-        python ./run_tests
+        python ./run_tests.py
