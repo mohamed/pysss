@@ -1,6 +1,9 @@
 pysss
 =====
 
+[![build](https://github.com/mohamed/pysss/actions/workflows/python-app.yml/badge.svg)](https://github.com/mohamed/pysss/actions/workflows/python-app.yml)
+
+
 This is a minimalist and yet complete implementation of Shamir's Secret Sharing
 Algorithm as described in [^JACM1979].
 The goal is to provide, as much as possible, a generic and efficient
